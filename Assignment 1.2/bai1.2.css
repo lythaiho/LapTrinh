@@ -1,0 +1,12 @@
+body {
+    width: 687px;
+    font-family: "Arial";
+    font-size: 15px;
+    margin: 0 auto;
+}
+p {
+    line-height: 1.6;
+}
+span {
+    color: #00f;
+}
