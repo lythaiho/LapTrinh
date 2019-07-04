@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1366px;
+    height: 100px;
+}
+.header{
+    padding-left: 100px;
+    padding-right: 130px;
+    padding-top: 45px;
+}
+.header .logo {
+    float: left;
+}
+.header .menu {
+    float: right;
+    margin-left: 375px;
+}
+.header .menu li{
+    float: left;
+    font-family: Nunito Sans;
+    font-weight: bolder;
+    font-size: 12px;
+    list-style-type: none;
+    padding-left: 30px ;
+}
+section{
+    width: 1366px;
+    height: 570px;
+}
+.main-content{
+    width: 100%;
+ }
+.box-left{
+    width: calc(50% - 5px) ;
+    height: 570px;
+    background-color: #f6f6f6;
+    float: left;
+}
+.container{
+    padding-left: 100px;
+}
+h1 {
+    font-family: Montserrat;
+    font-size: 38px;
+    font-style: normal;
+    text-align: justify;
+    font-weight: bold;
+    padding-top: 105px;
+}
+
+p.doan_van {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: normal;
+    padding-top: 35px;
+}
+
+p.doan_van2 {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: normal;
+    padding-top: 35px;
+}
+p.chuthich {
+    min-height: 100px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 60px;
+}
+
+.chuthich span {
+    font-weight: normal;
+    font-size: 16px;
+}
+.box-right{
+    width: 50%;
+    height: 570px;
+    float: right;
+    background-color: #787878;
+
+}
+.anhnen img{
+    width: 583px;
+    height: 570px;
+}
+footer{
+    width: 1366px;
+    height: 100px;
+}
+.footer{
+    padding-top: 45px;
+}
+.prev {
+    float: left;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 100px;
+    width: 573px;
+}
+.contro {
+    float:left;
+    width: 20px;
+}
+.contro img{
+    text-align: center;
+}
+.next{
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 16px;
+    float: right;
+    width: 573px;
+    text-align: right;
+    padding-right: 100px;
+}
+
